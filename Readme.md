@@ -1,4 +1,4 @@
-Trabalho Prático
+Trabalho Prático - Descrição
 
 O objetivo deste trabalho é trabalhar a simulação entre modelos de máquina de Turing. Para isto, será utilizada a sintaxe disponível no simulador online de máquinas de Turing em http://morphett.info/turing/turing.html
 
